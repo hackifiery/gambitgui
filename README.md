@@ -1,2 +1,2 @@
 # gambitgui
-a chess GUI written in python
+A simple chess GUI (Graphical User Interface) written in python.
